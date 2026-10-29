@@ -8,7 +8,7 @@ A passionate Minecraft & Python developer from Iran. Building things with code s
 - 🌱 Currently learning **Java (deepening my skills)**
 - 👯 Looking to collaborate on **Minecraft Dev projects**
 - 🎮 Known as **Capitan_Nima** in games
-- 📫 Reach me: **Capitan_Nima** on Discord
+- 📫 Reach me: **@CaPiTaN_NiMa_AP** on Bale / Rubika / Telegram / Eitaa
 - ⚡ Fun fact: I code on **Windows 10, Kali Linux & Android**
 
 ---
